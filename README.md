@@ -31,12 +31,6 @@ Computer Science Student at IIIT Ranchi
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohitraj0901&theme=tokyonight&row=1&column=6)
-
----
-
 ## 🧠 LeetCode
 
 LeetCode Profile  
