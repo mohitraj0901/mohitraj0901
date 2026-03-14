@@ -1,5 +1,7 @@
 # Hi 👋 I'm Mohit Raj
 
+![](https://komarev.com/ghpvc/?username=mohitraj0901&color=blue)
+
 Full Stack Developer | MERN Stack  
 Computer Science Student at IIIT Ranchi
 
