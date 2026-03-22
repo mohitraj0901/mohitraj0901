@@ -2,20 +2,44 @@
 
 ![](https://komarev.com/ghpvc/?username=mohitraj0901&color=blue)
 
-Full Stack Developer | MERN Stack  
-Computer Science Student at IIIT Ranchi
+AI & Data Science Enthusiast | B.Tech CSE (DS + AI) @ IIIT Ranchi  
+
+- Interested in Machine Learning, NLP, and AI research  
+- Experienced in building intelligent systems and full-stack applications  
+- Strong in DSA, Python, and problem-solving  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Projects
 
-- Java
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
-- MySQL
+- **AI Journal System**  
+  NLP-based system for emotion detection and automated summarization  
+
+- **AI Agriculture System**  
+  ML models for crop rotation recommendation and irrigation prediction  
+
+- **Full Stack Applications (MERN)**  
+  Built scalable web applications using MongoDB, Express, React, Node.js  
+
+---
+
+## 🛠 Tech Stack
+
+**AI / ML**
+- Python
+- Machine Learning
+- NLP  
+
+**Programming**
+- Java (DSA)
+
+**Web Development**
+- JavaScript  
+- React  
+- Node.js  
+- Express  
+- MongoDB  
+- MySQL  
 
 ---
 
@@ -33,7 +57,6 @@ Computer Science Student at IIIT Ranchi
 
 ## 🧠 LeetCode
 
-LeetCode Profile  
 https://leetcode.com/u/mohitraj0401/
 
 ---
