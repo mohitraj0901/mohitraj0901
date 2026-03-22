@@ -13,10 +13,10 @@ AI & Data Science Enthusiast | B.Tech CSE (DS + AI) @ IIIT Ranchi
 ## 🚀 Projects
 
 - **AI Journal System**  
-  NLP-based system for emotion detection and automated summarization  
+  Built an NLP-based system for emotion detection and automated summarization  
 
 - **AI Agriculture System**  
-  ML models for crop rotation recommendation and irrigation prediction  
+  Developed ML models for crop rotation recommendation and irrigation prediction  
 
 - **Full Stack Applications (MERN)**  
   Built scalable web applications using MongoDB, Express, React, Node.js  
