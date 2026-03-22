@@ -7,33 +7,42 @@ AI & Data Science Enthusiast | B.Tech CSE (DS + AI) @ IIIT Ranchi
 - Interested in Machine Learning, NLP, and AI research  
 - Experienced in building intelligent systems and full-stack applications  
 - Strong in DSA, Python, and problem-solving  
+- Actively learning Machine Learning and building AI-based projects  
 
 ---
 
 ## 🚀 Projects
 
-- **AI Journal System**  
-  Built an NLP-based system for emotion detection and automated summarization  
+### 🔹 AI Journal System  
+🔗 https://github.com/mohitraj0901/ai-journal-system  
+🌐 https://ai-journal-system-blond.vercel.app/  
+Built an NLP-based system for emotion detection and automated summarization  
 
-- **AI Agriculture System**  
-  Developed ML models for crop rotation recommendation and irrigation prediction  
+---
 
-- **Full Stack Applications (MERN)**  
-  Built scalable web applications using MongoDB, Express, React, Node.js  
+### 🔹 AI Agriculture System  
+🔗 https://github.com/mohitraj0901/AI-Project
+🌐 https://ai-project-13.onrender.com/
+Developed ML models for crop rotation recommendation and irrigation prediction  
+
+---
+
+### 🔹 Full Stack Applications (MERN)  
+Built scalable web applications using MongoDB, Express, React, and Node.js  
 
 ---
 
 ## 🛠 Tech Stack
 
-**AI / ML**
-- Python
-- Machine Learning
+### AI / ML
+- Python  
+- Machine Learning  
 - NLP  
 
-**Programming**
+### Programming
 - Java (DSA)
 
-**Web Development**
+### Web Development
 - JavaScript  
 - React  
 - Node.js  
