@@ -21,8 +21,8 @@ Built an NLP-based system for emotion detection and automated summarization
 ---
 
 ### 🔹 AI Agriculture System  
-🔗 https://github.com/mohitraj0901/AI-Project
-🌐 https://ai-project-13.onrender.com/
+🔗 https://github.com/mohitraj0901/AI-Project  
+🌐 https://ai-project-13.onrender.com/  
 Developed ML models for crop rotation recommendation and irrigation prediction  
 
 ---
