@@ -2,6 +2,7 @@
 
 **B.Tech CSE (AI & Data Science) @ IIIT Ranchi (2023–2027)** | **Ex-Research Intern @ IIT Kharagpur**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C4CC?style=flat&logo=vercel&logoColor=white)](https://mohit-portfolio-gamma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitraj0107)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/mraj0107)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohitraj0901&color=blue)
